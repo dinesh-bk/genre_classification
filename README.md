@@ -2,8 +2,6 @@
 
 Welcome to the Genre Classification repository! This project contains an end-to-end machine learning pipeline for classifying music genres using a Random Forest classifier.
 
-![Music](https://media.giphy.com/media/5t9IRdeRrmne0/giphy.gif)
-
 ## 🌟 Features
 
 - **Data Preprocessing**: Cleaning and preparing the data for model training.
@@ -69,5 +67,3 @@ Feel free to reach out for any questions or suggestions.
 ---
 
 Happy Coding! 🎉
-
-![Music Notes](https://media.giphy.com/media/3o85xB7MortUo4PGe8/giphy.gif)
